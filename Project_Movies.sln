@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Project_Movies", "Project_Movies\Project_Movies.rptproj", "{AC2D43FA-1A7F-48E7-89D6-4DB9A562ECDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC2D43FA-1A7F-48E7-89D6-4DB9A562ECDC}.Debug|Default.ActiveCfg = Debug
+		{AC2D43FA-1A7F-48E7-89D6-4DB9A562ECDC}.Debug|Default.Build.0 = Debug
+		{AC2D43FA-1A7F-48E7-89D6-4DB9A562ECDC}.Debug|Default.Deploy.0 = Debug
+		{AC2D43FA-1A7F-48E7-89D6-4DB9A562ECDC}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{AC2D43FA-1A7F-48E7-89D6-4DB9A562ECDC}.DebugLocal|Default.Build.0 = DebugLocal
+		{AC2D43FA-1A7F-48E7-89D6-4DB9A562ECDC}.Release|Default.ActiveCfg = Release
+		{AC2D43FA-1A7F-48E7-89D6-4DB9A562ECDC}.Release|Default.Build.0 = Release
+		{AC2D43FA-1A7F-48E7-89D6-4DB9A562ECDC}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A272347-98C4-4097-AAC9-12E7D1F94EED}
+	EndGlobalSection
+EndGlobal
