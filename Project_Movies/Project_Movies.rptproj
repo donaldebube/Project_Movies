@@ -49,6 +49,12 @@
     <Reports>@(Report)</Reports>
   </PropertyGroup>
   <ItemGroup>
+    <DataSet Include="DataSet1.rsd" />
+  </ItemGroup>
+  <ItemGroup>
+    <DataSource Include="dataset_source_naija_houses.rds" />
+  </ItemGroup>
+  <ItemGroup>
     <Report Include="01Basics.rdl" />
     <Report Include="02Data Sources and Datasets.rdl" />
   </ItemGroup>
